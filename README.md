@@ -3,9 +3,11 @@
 This repo is a work in progress
 
 Discussion and problem solving on the topics of:
-* Graph Theory
+* Graph Algorithms 
 * Max Flow Networks
 * Dynamic Programming and principle of optimality
+
+For the purpose we will follow the notation introduced in the book ["Digraphs: Theory, Algorithms, and Applications"](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/DigraphsJensenGutin.pdf) by Jensen and Gutin. 
 
 Specifically we will discuss in details and will be writing python code for the following algorithms:
 
