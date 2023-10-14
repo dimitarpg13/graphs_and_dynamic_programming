@@ -1,21 +1,31 @@
 
-## Other Relevant Work
- 
- * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
+# Resources on Graph theory and Dynamic programming
 
- * [NLP Concepts](https://github.com/dimitarpg13/nlp_concepts/blob/main/NLPResources.md)
- 
- * [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
- 
- * [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResoruces.md)
- 
- * [Bayesian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md)
- 
- * [Probabilistic Machine Learning](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
- 
- * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
+## Books
 
- * [Deep Learning and Neural Networks](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/Resources.md)
+[Digraphs Theory, Algorithms, and Applications, Bang-Jensen and Gutin, 2007](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/DigraphsJensenGutin.pdf)
 
- * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
- 
+[Dynamic Programming, Richard Bellman, Princeton, 1957, Sixth Print 1972](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/1957-bellman-dynamicprogramming.pdf)
+
+[The Theory of Dynamic Programming, Richard Bellman, 1954](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/TheTheoryOfDynamicProgrammingBellman.pdf)
+
+[Dynamic Programming and Optimal Control, Vol. I, Third Edition, Dimitri P. Bertsekas, 2005](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/DynamicProgrammingAndOptimalControlBertsekas3ed.pdf)
+
+[Dynamic Programming and Principles of Optimality, Moshe Sniedovich, 1978](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/DynamicProgrammingAndPrincipleOfOptimalitySniedovich.pdf)
+
+
+## Articles
+
+### Network Flow
+
+[Flows in Networks, L.R. Ford and D.R. Fulkerson, 1962](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/FlowsInNetworksFordAndFulkerson1962.pdf)
+
+### Optimal matching
+
+[The Assignment Game: The Reduced Game, Guillermo Owen, 1992](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/The_Assignment_Game_The_Reduced_Game.pdf)
+
+[AdWords and Generlized Online Matching, A. Mehta et al, 2005](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/adwords_mehta.pdf)
+
+### Markov Chains
+
+[A Tutorial on the Spectral Theory of Markov Chains, E. Seabrook et al, 2022](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/A_Tutorial_on_the_Spectral_Theory_of_Markov_Chains_Seabrook_2022.pdf)
