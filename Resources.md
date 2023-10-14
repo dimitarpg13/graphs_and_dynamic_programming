@@ -21,10 +21,19 @@
 [Flows in Networks, L.R. Ford and D.R. Fulkerson, 1962](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/FlowsInNetworksFordAndFulkerson1962.pdf)
 
 ### Optimal matching
+[College Admissions and the Stability of Marriage, D. Gale and L.S. Shapley, 1962](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/college_admissions_and_stability_of_marriage_galeshapley_1962.pdf)
+
+[The Assignment Game I: The Core, L. Shapley and M. Shubik, 1971, Rand Corp](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/the_assignment_game_the_core_I_shapley_shubik.pdf)
+
+[On-Line and First Fit Colorings of Graphs, A. Gyafras, J. Lehel, 1988](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/online_and_first_fit_colorings_of_graphs_gyarfas_lehel_1988.pdf)
+
+[An Optimal Algorithm for On-line Bipartite Matching, Richard Karp, Umesh vazirani et al, 1990](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/optimal_algoritm_for_online_bipartite_matching_KarpVazirani_1990.pdf)
 
 [The Assignment Game: The Reduced Game, Guillermo Owen, 1992](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/The_Assignment_Game_The_Reduced_Game.pdf)
 
-[AdWords and Generlized Online Matching, A. Mehta et al, 2005](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/adwords_mehta.pdf)
+[AdWords and Generlized Online Matching, A. Mehta et al, 2007](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/adwords_mehta.pdf)
+
+[Online Matching and Ad Allocation, A. Mehta, 2013](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/online_matching_and_ad_allocation_mehta_2013.pdf)
 
 ### Markov Chains
 
