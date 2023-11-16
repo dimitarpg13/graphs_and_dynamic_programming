@@ -42,6 +42,8 @@
 
 ### Expander Graphs
 
+[A Note on High Dimensional Expanders](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/NoteOnHighDimensionalExpanders.md)
+
 [High Dimensional Expanders, A. Lubotsky, 2017](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/expanders/High_Dimensional_Expanders_Lubotzky_2017.pdf)
 
 [High Dimensional Expanders, Ori Parzanchevski, PhD Thesis, Princeton U, 2013](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/expanders/High_Dimensional_Expanders_ori_parzanchevski_PhD_thesis.pdf)
