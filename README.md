@@ -58,3 +58,5 @@ We will look into using open source python packages such as [dynamic-programming
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/Resources.md)
 
+ * [AI Concepts](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
+
