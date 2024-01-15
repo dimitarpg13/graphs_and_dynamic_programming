@@ -49,3 +49,13 @@
 [High Dimensional Expanders, Ori Parzanchevski, PhD Thesis, Princeton U, 2013](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/expanders/High_Dimensional_Expanders_ori_parzanchevski_PhD_thesis.pdf)
 
 [Expander Codes, Michael Spiser, Daniel Spielman, MIT, 1996](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/expanders/ExpanderCodesSipser1996.pdf)
+
+### Percolation Theory
+
+[Percolation: A Close-Up View Reveals the ‘Melting’ Point of an Infinite Graph, Quanta Magazine, 2023](https://www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/)
+
+[Percolation, Geoffrey Grimmett, 1997](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/percolation/Percolation_Grimmet_1997.pdf)
+
+[The Critical Percolation Probability is local, Philip Easo, Tom Hutchcroft, 2023](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/percolation/The_critical_percolation_probability_is_local_Easo_Hutchcroft_2023.pdf)
+
+[Percolation Theory for Mathematicians - all chapters here...](https://github.com/dimitarpg13/graphs_and_dynamic_programming/tree/master/articles/percolation/percolation_theory_for_mathematicians)
