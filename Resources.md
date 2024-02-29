@@ -39,6 +39,25 @@
 
 [A Tutorial on the Spectral Theory of Markov Chains, E. Seabrook et al, 2022](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/A_Tutorial_on_the_Spectral_Theory_of_Markov_Chains_Seabrook_2022.pdf)
 
+### Spectral Graph Theory
+
+[Spectra of graphs, Andries E. Brouwer, Willem H. Haemers, 2011](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/Spectra_of_graphs_Brouwer_2011.pdf)
+
+[Study of Eigenspaces in Graphs, D. Cvetkovic et al, 1993](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/spectra_in_graphs/Study_of_eigenspaces_of_graphs_Cvetkovic_1993.pdf)
+
+[Eigenvalues of graphs, Laszlo Lovasz, 2007](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/spectra_in_graphs/Eigenvalues_of_graphs_Lovasz_2007.pdf)
+
+[Eigenvalues and structures of graphs, SK. Butler, PhD Thesis, UC San Diego, 2008](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/spectra_in_graphs/Eigenvalues_and_structures_of_graphs_Butler_PhD_thesis_2008.pdf)
+
+[On Simply Structured Bases of Graph Eigenspaces, Torsten Sander, 2008](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/spectra_in_graphs/On_Simply_Structured_Bases_of_Graph_Eigenspaces_Sander_2008.pdf)
+
+[Are Almost All Graphs Cospectral?, Chris Godsil, 2007](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/spectra_in_graphs/Are_almost_all_graphs_cospectral_slides_Godsill_2011.pdf)
+
+[Vertex-Frequency Analysis on Graphs, D. Shuman et al, 2013](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/spectra_in_graphs/Vertex-Frequency_Analysis_on_Graphs_Shuman_2013.pdf)
+
+[Reconstructing Undirected Graphs from Eigenspaces, Yohann De Castro et al, 2017](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/spectra_in_graphs/Reconstructing_Undirected_Graphs_from_Eigenspaces_Castro_2017.pdf)
+
+[An Introduction to the Theory of Graph Spectra, MATH-495/595 Iowa State University, SK Butler, 2017](https://www.youtube.com/playlist?list=PLi4h0n4UP8d9VGPqO8vLQga9ZApO65TLW)
 
 ### Expander Graphs
 
