@@ -57,7 +57,7 @@
 
 [Reconstructing Undirected Graphs from Eigenspaces, Yohann De Castro et al, 2017](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/spectra_in_graphs/Reconstructing_Undirected_Graphs_from_Eigenspaces_Castro_2017.pdf)
 
-[An Introduction to the Theory of Graph Spectra, MATH-495/595 Iowa State University, SK Butler, 2017](https://www.youtube.com/playlist?list=PLi4h0n4UP8d9VGPqO8vLQga9ZApO65TLW)
+[An Introduction to the Theory of Graph Spectra, MATH-495/595 Iowa State University, SK Butler, 2017, youtube video lectures](https://www.youtube.com/playlist?list=PLi4h0n4UP8d9VGPqO8vLQga9ZApO65TLW)
 
 ### Expander Graphs
 
@@ -78,3 +78,9 @@
 [The Critical Percolation Probability is local, Philip Easo, Tom Hutchcroft, 2023](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/percolation/The_critical_percolation_probability_is_local_Easo_Hutchcroft_2023.pdf)
 
 [Percolation Theory for Mathematicians - all chapters here...](https://github.com/dimitarpg13/graphs_and_dynamic_programming/tree/master/articles/percolation/percolation_theory_for_mathematicians)
+
+## youtube lectures
+
+### An Introduction to the Theory of Graph Spectra, MATH-495/595 Iowa State University, SK Butler, 2017
+
+[An Introduction to the Theory of Graph Spectra, MATH-495/595 Iowa State University, SK Butler, 2017, youtube video lectures](https://www.youtube.com/playlist?list=PLi4h0n4UP8d9VGPqO8vLQga9ZApO65TLW)
