@@ -81,6 +81,5 @@
 
 ## youtube lectures
 
-### An Introduction to the Theory of Graph Spectra, MATH-495/595 Iowa State University, SK Butler, 2017
-
+### Spectral Graph Theory
 [An Introduction to the Theory of Graph Spectra, MATH-495/595 Iowa State University, SK Butler, 2017, youtube video lectures](https://www.youtube.com/playlist?list=PLi4h0n4UP8d9VGPqO8vLQga9ZApO65TLW)
