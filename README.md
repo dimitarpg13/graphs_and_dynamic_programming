@@ -34,7 +34,7 @@ Specifically we will discuss in details and will be writing python code for the 
 
 We will look into using open source python packages such as [dynamic-programming](https://pypi.org/project/dynamic-programming/) and [networkx](https://networkx.org/).
 
-## Relevant Work
+## Selected Topics in Machine Learning
  
  * [Reinforcement Learning and Game Theory](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
