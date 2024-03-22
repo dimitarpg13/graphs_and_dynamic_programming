@@ -13,7 +13,7 @@
 
 [Dynamic Programming and Principles of Optimality, Moshe Sniedovich, 1978](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/DynamicProgrammingAndPrincipleOfOptimalitySniedovich.pdf)
 
-
+[The Elements of Differentiable Programming, Mathieu Blondel, Vincent Roulet, Google DeepMind, 2024](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf)
 ## Articles
 
 ### Network Flow
