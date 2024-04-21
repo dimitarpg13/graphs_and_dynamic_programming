@@ -64,6 +64,8 @@ We will look into using open source python packages such as [dynamic-programming
 
  * [Information Theory, Statistical Mechanics, Diffusion Models](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
 
+ * [Queueing Networks, Queueing Theory, Reversible Stochastic Processes](https://github.com/dimitarpg13/queueing_theory/blob/main/Resources.md)
+
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
 
  * [Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/Resources.md)
