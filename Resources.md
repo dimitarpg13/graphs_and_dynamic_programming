@@ -79,6 +79,10 @@
 
 [Percolation Theory for Mathematicians - all chapters here...](https://github.com/dimitarpg13/graphs_and_dynamic_programming/tree/master/articles/percolation/percolation_theory_for_mathematicians)
 
+## medium
+
+[The Essential Guide to Graph Theory: From an 18th Century Riddle to Artificial Intelligence, Sydney Nye, May, 2024](https://towardsdatascience.com/the-essential-guide-to-graph-theory-from-an-18th-century-riddle-to-artificial-intelligence-c441cb9400de)
+
 ## youtube lectures
 
 ### Spectral Graph Theory
