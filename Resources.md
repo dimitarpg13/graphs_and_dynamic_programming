@@ -59,7 +59,28 @@
 
 [An Introduction to the Theory of Graph Spectra, MATH-495/595 Iowa State University, SK Butler, 2017, youtube video lectures](https://www.youtube.com/playlist?list=PLi4h0n4UP8d9VGPqO8vLQga9ZApO65TLW)
 
+### Hamiltonicity and Pseudorandom Graphs
+
+[Hamiltonian Cycles in Pseudorandom Graphs, Stefan Glock et al, 2023](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/hamiltonicity/Hamilton_cycles_in_pseudorandom_graphs_Glock_2023.pdf)
+
+[Hamiltonicity of Sparse Pseudorandom Graphs, Asaf Ferber et al, 2024](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/hamiltonicity/Hamiltonicity_of_Sparse_Pseudorandom_Graphs_Ferber_2024.pdf)
+
+[Hamiltonicity of Expanders - Optimal Bounds and Applications, N. Draganic et al, 2024](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/hamiltonicity/Hamiltonicity_of_expanders-optimal_bounds_and_applications_Draganic_2024.pdf)
+
+[Sparse Pseudorandom Graphs are Hamiltonian, M. Krivelevich, B. Sudakov, 2002](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/hamiltonicity/Sparse_Pseudo-Random_Graphs_are_Hamiltonian_Krivelevich_Sudakov_2002.pdf)
+
+[Spanning Trees in Pseudo-random Graphs via Sorting Networks, J. Hyde et al, 2003](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/pseudorandom_graphs/Spanning_trees_in_pseudorandom_graphs_via_sorting_networks_Hyde_2023.pdf)
+
+[Hamilton Cycles in Random Graphs, L. Posa, 1974](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/hamiltonicity/hamilton_cycles_in_random_graphs_Posa_1974.pdf)
+
+[In Highly Connected Networks, There’s Always a Loop, Leila Sloman, Quanta Magazine, 2024](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
+
+
 ### Expander Graphs
+
+[Exapnder Graphs, Wikipedia](https://en.wikipedia.org/wiki/Expander_graph)
+
+[Expander Graphs and their Applications, Shlomo Hoory et al, AMS, 2006](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/expanders/expander_graphs_and_their_applications_survey_Hoory_2006.pdf)
 
 [A Note on High Dimensional Expanders](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/NoteOnHighDimensionalExpanders.md)
 
