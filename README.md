@@ -50,6 +50,8 @@ We will look into using open source python packages such as [dynamic-programming
  
  * [Probabilistic Machine Learning](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
 
+ * [Statistical Learning, Kernel Methods, Kolomogorov-Arnold Networks](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/Resources.md)
+
  * [Optimization, Classification, Regression](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/Resources.md)
  
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
