@@ -1,0 +1,9 @@
+books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf filter=lfs diff=lfs merge=lfs -text
+books/Spectra_of_graphs_Brouwer_2011.pdf filter=lfs diff=lfs merge=lfs -text
+articles/spectra_in_graphs/Vertex-Frequency_Analysis_on_Graphs_Shuman_2013.pdf filter=lfs diff=lfs merge=lfs -text
+articles/spectra_in_graphs/Are_almost_all_graphs_cospectral_slides_Godsill_2011.pdf filter=lfs diff=lfs merge=lfs -text
+articles/spectra_in_graphs/Study_of_eigenspaces_of_graphs_Cvetkovic_1993.pdf filter=lfs diff=lfs merge=lfs -text
+books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/expanders/expander_graphs_and_their_applications_survey_Hoory_2006.pdf filter=lfs diff=lfs merge=lfs -text
+articles/hamiltonicity/hamilton_cycles_in_random_graphs_Posa_1974.pdf filter=lfs diff=lfs merge=lfs -text
+articles/sorting_networks/Sorting_Networks_Cambridge_lecture.pdf filter=lfs diff=lfs merge=lfs -text
