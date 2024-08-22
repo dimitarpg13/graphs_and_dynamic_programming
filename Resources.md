@@ -9,12 +9,22 @@
 
 [The Theory of Dynamic Programming, Richard Bellman, 1954](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/TheTheoryOfDynamicProgrammingBellman.pdf)
 
-[Dynamic Programming and Optimal Control, Vol. I, Third Edition, Dimitri P. Bertsekas, 2005](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/DynamicProgrammingAndOptimalControlBertsekas3ed.pdf)
+[Dynamic Programming: Models and Applications, Eric Denardo, 1982, Yale U.](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/dynamic-programming-models-and-application-denardo.pdf)
 
-[Dynamic Programming and Principles of Optimality, Moshe Sniedovich, 1978](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/DynamicProgrammingAndPrincipleOfOptimalitySniedovich.pdf)
+[Dynamic Programming and Optimal Control, Vol. I, Third Edition, Dimitri P. Bertsekas, 2005](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/DynamicProgrammingAndOptimalControlBertsekas3ed.pdf)
 
 [The Elements of Differentiable Programming, Mathieu Blondel, Vincent Roulet, Google DeepMind, 2024](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf)
 ## Articles
+
+### Dynamic Programming
+
+[The Theory of Dynamic Programming, Richard Bellman, 1954](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/TheTheoryOfDynamicProgrammingBellman.pdf)
+
+[Dynamic Programming and Principles of Optimality, Moshe Sniedovich, 1978](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/DynamicProgrammingAndPrincipleOfOptimalitySniedovich.pdf)
+
+[Dynamic Programming: an Overview, Moshe Sniedovich, Art Lew, 2006](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/DynamicProgrammingAnOverviewSniedovich2006.pdf)
+
+[Dijkstra's Algorithm Revisited - The Dynamic Programming Connection, Moshe Sniedovich, 2006](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/DijkstrasAlgorithmRevisited_theDynamicProgrammingConnexion2006.pdf)
 
 ### Network Flow
 
