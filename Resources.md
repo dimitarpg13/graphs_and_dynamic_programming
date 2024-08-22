@@ -7,6 +7,8 @@
 
 [Spectra of Graphs, Andries Brouwer, Willem Haemers, 2011](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/Spectra_of_graphs_Brouwer_2011.pdf)
 
+[Constraint Networks, Techniques and Algorithms, Christophe Lecoutre, 2009](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/Lecoutre-Constraint_Networks-2009.pdf)
+
 [Dynamic Programming, Richard Bellman, Princeton, 1957, Sixth Print 1972](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/1957-bellman-dynamicprogramming.pdf)
 
 [The Theory of Dynamic Programming, Richard Bellman, 1954](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/TheTheoryOfDynamicProgrammingBellman.pdf)
