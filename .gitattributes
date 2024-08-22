@@ -7,3 +7,5 @@ books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf filter
 articles/expanders/expander_graphs_and_their_applications_survey_Hoory_2006.pdf filter=lfs diff=lfs merge=lfs -text
 articles/hamiltonicity/hamilton_cycles_in_random_graphs_Posa_1974.pdf filter=lfs diff=lfs merge=lfs -text
 articles/sorting_networks/Sorting_Networks_Cambridge_lecture.pdf filter=lfs diff=lfs merge=lfs -text
+books/dynamic-optimization-the-calculus-of-variations-kamien.pdf filter=lfs diff=lfs merge=lfs -text
+books/dynamic-programming-models-and-application-denardo.pdf filter=lfs diff=lfs merge=lfs -text
