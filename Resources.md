@@ -32,6 +32,12 @@
 
 [Collection of Dynamic Programming Problems and their solutions at GeeksForGeeks.com](https://www.geeksforgeeks.org/dynamic-programming/)
 
+### Difference Equations
+
+[An Introduction to Difference Equations, S. Elaydi, 3rd Edition, 2000](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/difference_equations/Intro-to-Difference-Equations-Elayadi-2000.pdf)
+
+[DIfference Equations: Theory, Applications and Advanced Topics, R. Mickens, 3rd Edition, 2015](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/difference_equations/difference-equations-theory-applications-and-advanced-topics-mickens-3ed-2015.pdf)
+
 ### Network Flow
 
 [Flows in Networks, L.R. Ford and D.R. Fulkerson, 1962](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/FlowsInNetworksFordAndFulkerson1962.pdf)
