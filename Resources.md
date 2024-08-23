@@ -30,6 +30,8 @@
 
 [Dijkstra's Algorithm Revisited - The Dynamic Programming Connection, Moshe Sniedovich, 2006](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/DijkstrasAlgorithmRevisited_theDynamicProgrammingConnexion2006.pdf)
 
+[Collection of Dynamic Programming Problems and their solutions at GeeksForGeeks.com](https://www.geeksforgeeks.org/dynamic-programming/)
+
 ### Network Flow
 
 [Flows in Networks, L.R. Ford and D.R. Fulkerson, 1962](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/matching/FlowsInNetworksFordAndFulkerson1962.pdf)
