@@ -3,10 +3,10 @@ import sys
 
 class DijkstraNaive:
 
-    def __init__(self, vertices):
-        self.V = vertices
-        self.graph = [[0 for _ in range(vertices)]
-                      for _ in range(vertices)]
+    def __init__(self, vertice_count):
+        self.vertice_count = vertice_count
+        self.graph = [[0 for _ in range(vertice_count)]
+                      for _ in range(vertice_count)]
 
     # A utility function to find the vertex with
     # minimum distance value, from the set of vertices
@@ -17,7 +17,7 @@ class DijkstraNaive:
         min_dist = sys.maxsize
         min_index = -1
         # Search nearest vertex not in the shortest path tree
-        for k in range(self.V):
+        for k in range(self.vertice_count):
             if dist[k] < min_dist and spt_set[k] == False:
                 min_dist = dist[k]
                 min_index = k
@@ -29,11 +29,11 @@ class DijkstraNaive:
     # using adjacency matrix representation
     def run(self, t):
 
-        dist = [sys.maxsize] * self.V
+        dist = [sys.maxsize] * self.vertice_count
         dist[t] = 0
-        spt_set = [False] * self.V
+        spt_set = [False] * self.vertice_count
 
-        for _ in range(self.V):
+        for _ in range(self.vertice_count):
 
             # Pick the minimum distance vertex from
             # the set of vertices not yet processed.
@@ -48,7 +48,7 @@ class DijkstraNaive:
             # of the picked vertex only if the current
             # distance is greater than new distance and
             # the vertex in not in the shortest path tree
-            for y in range(self.V):
+            for y in range(self.vertice_count):
                 if self.graph[x][y] > 0 and spt_set[y] == False and \
                         dist[y] > dist[x] + self.graph[x][y]:
                     dist[y] = dist[x] + self.graph[x][y]
