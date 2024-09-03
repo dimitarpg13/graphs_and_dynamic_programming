@@ -53,4 +53,4 @@ class DijkstraNaive:
                         dist[y] > dist[x] + self.graph[x][y]:
                     dist[y] = dist[x] + self.graph[x][y]
 
-            return dist
+        return dist
