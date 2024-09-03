@@ -1,8 +1,10 @@
 import sys
 
 
-class DijkstraNaive:
-
+class DijkstraIEDF:
+    """
+    Iteratively Expanding Distance Front Algorithm (IEDF)
+    """
     def __init__(self, vertex_count):
         self.vertex_count = vertex_count
         self.graph = [[0 for _ in range(vertex_count)]

@@ -1,11 +1,11 @@
 import unittest
-from dijkstra.dijkstra import DijkstraNaive
+from dijkstra.dijkstra import DijkstraIEDF
 
 
 class DijkstraTestCase(unittest.TestCase):
 
     def test_dijkstra_naive_impl(self):
-        g = DijkstraNaive(9)
+        g = DijkstraIEDF(9)
         g.graph = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
                    [4, 0, 8, 0, 0, 0, 0, 11, 0],
                    [0, 8, 0, 7, 0, 4, 0, 0, 2],
