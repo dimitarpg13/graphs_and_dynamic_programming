@@ -17,7 +17,7 @@ class DijkstraTestCase(unittest.TestCase):
                    [0, 0, 2, 0, 0, 0, 6, 7, 0]
                    ]
         dist = g.run(0)
-        
+
         self.assertEqual(dist[0], 0)  # add assertion here
         self.assertEqual(dist[1], 4)
         self.assertEqual(dist[2], 12)
