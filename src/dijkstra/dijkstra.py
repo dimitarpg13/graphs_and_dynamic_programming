@@ -102,4 +102,4 @@ class DijkstraDP:
         self.vertex_count = vertex_count
         self.adjacency_matrix = adjacency_matrix
         self.dist = [sys.maxsize] * self.vertex_count
-        self.dist[vertex_count] = 0
+
