@@ -2,6 +2,9 @@ import sys
 
 
 class DepthFirstSearchUndirectedGraph:
+    """
+    This is the algorithm for undirected graph
+    """
     def __init__(self, adj):
         """
         The undirected graph is given as an adjacency list
@@ -21,3 +24,8 @@ class DepthFirstSearchUndirectedGraph:
         visited = [False] * len(self.adj)
         self.visit_recursive(0, visited, visitations)
         return visitations
+
+
+class DepthFirstSearchDirectedGraph:
+    def __init__(self, adj):
+        self.adj = adj
