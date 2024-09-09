@@ -110,4 +110,5 @@ class DijkstraDP:
         :return: list of distances to t from all other nodes
         """
         spt_set = [False] * self.vertex_count
-        spt_set[0] = 0
+        self.dist[0] = 0
+        
