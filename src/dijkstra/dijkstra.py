@@ -103,3 +103,11 @@ class DijkstraDP:
         self.adjacency_matrix = adjacency_matrix
         self.dist = [sys.maxsize] * self.vertex_count
 
+    def run(self, t):
+        """
+        Computes the shortest paths to t from all other nodes
+        :param t: target node index
+        :return: list of distances to t from all other nodes
+        """
+        spt_set = [False] * self.vertex_count
+        spt_set[0] = 0
