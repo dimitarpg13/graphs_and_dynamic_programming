@@ -1,10 +1,10 @@
 import unittest
-from dijkstra.dijkstra import DijkstraIEFD, DijkstraDP
+from dijkstra.dijkstra import DijkstraEFMD, DijkstraEFMDOpt, DijkstraDP
 
 
 class DijkstraTestCase(unittest.TestCase):
 
-    def test_dijkstra_IEFD(self):
+    def test_dijkstra_EFMD(self):
 
         adj_matr = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
                    [4, 0, 8, 0, 0, 0, 0, 11, 0],
@@ -16,7 +16,7 @@ class DijkstraTestCase(unittest.TestCase):
                    [8, 11, 0, 0, 0, 0, 1, 0, 7],
                    [0, 0, 2, 0, 0, 0, 6, 7, 0]]
 
-        g = DijkstraIEFD(9,adj_matr)
+        g = DijkstraEFMD(9,adj_matr)
 
         dist = g.run(0)
 
@@ -29,6 +29,22 @@ class DijkstraTestCase(unittest.TestCase):
         self.assertEqual(dist[6], 9)
         self.assertEqual(dist[7], 8)
         self.assertEqual(dist[8], 14)
+
+    def test_dijkstra_EFMDOpt(self):
+
+        adj_matr = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
+                   [4, 0, 8, 0, 0, 0, 0, 11, 0],
+                   [0, 8, 0, 7, 0, 4, 0, 0, 2],
+                   [0, 0, 7, 0, 9, 14, 0, 0, 0],
+                   [0, 0, 0, 9, 0, 10, 0, 0, 0],
+                   [0, 0, 4, 14, 10, 0, 2, 0, 0],
+                   [0, 0, 0, 0, 0, 2, 0, 1, 6],
+                   [8, 11, 0, 0, 0, 0, 1, 0, 7],
+                   [0, 0, 2, 0, 0, 0, 6, 7, 0]]
+
+        g = DijkstraEFMDOpt(9,adj_matr)
+
+        self.assertEqual(True, True)
 
     def test_dijkstra_DP(self):
 

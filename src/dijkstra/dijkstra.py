@@ -1,9 +1,9 @@
 import sys
 
 
-class DijkstraIEFD:
+class DijkstraEFMD:
     """
-    Iteratively Expanding Front of Distances Algorithm (IEFD)
+    Iteratively Expanding Front of Min Distances Algorithm (EFMD)
     """
     def __init__(self, vertex_count, adjacency_matrix):
         self.vertex_count = vertex_count
@@ -67,13 +67,13 @@ import heapq
 iPair = tuple
 
 
-class DijkstraIEDFOpt:
+class DijkstraEFMDOpt:
     """
-    Iteratively Expanding Distance Front Optimized Algorithm (IEDFOpt)
+    Iteratively Expanding Front of Min Distances Optimized Algorithm (EFMDOpt)
     """
-    def __init__(self, vertex_count):
+    def __init__(self, vertex_count, adjacency_matrix):
         self.vertex_count = vertex_count
-        self.adjacency_matrix = [[] for _ in range(vertex_count)]
+        self.adjacency_matrix = adjacency_matrix
 
     def addEdge(self, u: int, v: int, w: int):
         self.adjacency_matrix[u].append((v, w))
@@ -111,4 +111,4 @@ class DijkstraDP:
         """
         spt_set = [False] * self.vertex_count
         self.dist[0] = 0
-        
+
