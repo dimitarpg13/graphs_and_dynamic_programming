@@ -1,7 +1,7 @@
 import sys
 
 
-class DepthFirstSearch:
+class DepthFirstSearchRecursive:
     """
     This is the algorithm applicable both for undirected graphs and digraphs
     """
