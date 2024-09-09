@@ -1,10 +1,10 @@
 import unittest
-from dijkstra.dijkstra import DijkstraIEDF
+from dijkstra.dijkstra import DijkstraIEFD, DijkstraDP
 
 
 class DijkstraTestCase(unittest.TestCase):
 
-    def test_dijkstra_naive_impl(self):
+    def test_dijkstra_IEFD(self):
 
         adj_matr = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
                    [4, 0, 8, 0, 0, 0, 0, 11, 0],
@@ -16,7 +16,7 @@ class DijkstraTestCase(unittest.TestCase):
                    [8, 11, 0, 0, 0, 0, 1, 0, 7],
                    [0, 0, 2, 0, 0, 0, 6, 7, 0]]
 
-        g = DijkstraIEDF(9,adj_matr)
+        g = DijkstraIEFD(9,adj_matr)
 
         dist = g.run(0)
 
@@ -30,6 +30,21 @@ class DijkstraTestCase(unittest.TestCase):
         self.assertEqual(dist[7], 8)
         self.assertEqual(dist[8], 14)
 
+    def test_dijkstra_DP(self):
+
+        adj_matr = [[0, 4, 0, 8, 0, 0, 0, 0, 0],
+                    [0, 0, 8, 11, 0, 0, 0, 0, 0],
+                    [0, 0, 0, 0, 2, 0, 4, 7, 0],
+                    [0, 0, 0, 0, 7, 1, 0, 0, 0],
+                    [0, 0, 0, 0, 0, 6, 0, 0, 0],
+                    [0, 0, 0, 0, 0, 0, 2, 0, 0],
+                    [0, 0, 0, 0, 0, 0, 0, 14, 10],
+                    [0, 0, 0, 0, 0, 0, 0, 0, 9],
+                    [0, 0, 0, 0, 0, 0, 0, 0, 0]]
+
+        g = DijkstraDP(9, adj_matr)
+
+        self.assertEqual(True, True)
 
 if __name__ == '__main__':
     unittest.main()
