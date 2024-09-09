@@ -1,9 +1,9 @@
 import sys
 
 
-class DepthFirstSearchUndirectedGraph:
+class DepthFirstSearch:
     """
-    This is the algorithm for undirected graph
+    This is the algorithm applicable both for undirected graphs and digraphs
     """
     def __init__(self, adj):
         """
@@ -24,8 +24,3 @@ class DepthFirstSearchUndirectedGraph:
         visited = [False] * len(self.adj)
         self.visit_recursive(0, visited, visitations)
         return visitations
-
-
-class DepthFirstSearchDirectedGraph:
-    def __init__(self, adj):
-        self.adj = adj
