@@ -17,3 +17,4 @@ articles/branch_and_bound/An_automatic_method_of_solving_discret_programming_pro
 articles/branch_and_bound/Branch_and_bound_methods_for_the_traveling_salesman_problem_Balas_CMU_1983.pdf filter=lfs diff=lfs merge=lfs -text
 articles/branch_and_bound/General_branch_and_bound_and_its_relation_to_AStar_and_AOStar_nau_1984.pdf filter=lfs diff=lfs merge=lfs -text
 books/TheoryOfScheduling_Conway_Cornell_1967.pdf filter=lfs diff=lfs merge=lfs -text
+articles/dynamic_programming/Dynamic_programming_approach_to_sequencing_problems_Held_Karp_1962.pdf filter=lfs diff=lfs merge=lfs -text
