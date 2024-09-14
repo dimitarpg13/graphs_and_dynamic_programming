@@ -32,6 +32,23 @@
 
 [Collection of Dynamic Programming Problems and their solutions at GeeksForGeeks.com](https://www.geeksforgeeks.org/dynamic-programming/)
 
+### Branch-and-Bound
+[An automatic method of solving discrete programming problems, Econometrica, AH Land, AG Doig, 1960](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/An_automatic_method_of_solving_discret_programming_problems_Land_Doig_1960.pdf)
+
+[An Algorithm for Travelling Salesman Problem, John D. Little et al, MIT, 1963](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/Algorithm_for_Traveling_Salesman_Problem_Little_MIT_1963.pdf)
+
+[A branch and bound algorithm for computing k-nearest neighbors, K. Fukunaga, N. Patrenahalli, 1975](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/FukunagaNarendra_BranchAndBoundkNN_1975.pdf)
+
+[A branch and bound algorithm for feature subset selection, N. Patrenahalli, K. Fukunaga, IEEE, 1977](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/A_branch_and_bound_algorithm_for_feature_subset_selection_Patrenahalli_Fukunaga_1977.pdf)
+
+[Branch and bound methods for the traveling salesman problem, E. Balas, P. Toth, CMU, 1983](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/Branch_and_bound_methods_for_the_traveling_salesman_problem_Balas_CMU_1983.pdf)
+
+[General branch and bound, and its relation to A* and AO*, D. Nau, V. Kumar, L. Kanal, Artificial Intellgience, 1984](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/General_branch_and_bound_and_its_relation_to_AStar_and_AOStar_nau_1984.pdf)
+
+[Branch and Bound Algorithms—Principles and Examples, Jens Claussen, Tech Report, 1999](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/Branch_and_Bound_Algorithms_Principles_and_Examples_JensClausen_1999.pdf)
+
+[Parallel Algorithm Design for Branch and Bound, D. Bader et al, Book Chapter, 2004](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/Parallel_Algorithm_Design_for_Branch_and_Bound_Bader_2004.pdf)
+
 ### Difference Equations
 
 [An Introduction to Difference Equations, S. Elaydi, 3rd Edition, 2000](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/difference_equations/Intro-to-Difference-Equations-Elayadi-2000.pdf)
