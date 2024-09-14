@@ -26,6 +26,8 @@
 
 [The Theory of Dynamic Programming, Richard Bellman, 1954](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/TheTheoryOfDynamicProgrammingBellman.pdf)
 
+[Dynamic Programming Approach to Sequencing Problems, M. Held, R. Karp, 1962](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Dynamic_programming_approach_to_sequencing_problems_Held_Karp_1962.pdf)
+
 [Dynamic Programming and Principles of Optimality, Moshe Sniedovich, 1978](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/DynamicProgrammingAndPrincipleOfOptimalitySniedovich.pdf)
 
 [Dynamic Programming: an Overview, Moshe Sniedovich, Art Lew, 2006](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/DynamicProgrammingAnOverviewSniedovich2006.pdf)
