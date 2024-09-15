@@ -13,4 +13,4 @@ class TopoSortTestCase(unittest.TestCase):
             adj[i[0]].append(i[1])
 
         topo = topological_sort(adj, num_nodes)
-        self.assertListEqual([2, 1, 0, 3], topo)
+        self.assertListEqual([3, 0, 1, 2], topo)

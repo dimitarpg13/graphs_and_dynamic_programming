@@ -25,4 +25,6 @@ def topological_sort(adj, num_nodes):
         if not visited[i]:
             topological_sort_helper(i, adj, visited, stack)
 
+    stack.reverse()
+
     return stack
