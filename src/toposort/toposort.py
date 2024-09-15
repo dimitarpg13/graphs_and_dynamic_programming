@@ -12,16 +12,16 @@ def topological_sort_helper(v, adj, visited, stack):
 
 
 # Function to perform Topological Sort
-def topological_sort(adj, V):
+def topological_sort(adj, num_nodes):
     # Stack to store the result
     stack = []
 
-    visited = [False] * V
+    visited = [False] * num_nodes
 
     # Call the recursive helper function to store
     # Topological Sort starting from all vertices one by
     # one
-    for i in range(V):
+    for i in range(num_nodes):
         if not visited[i]:
             topological_sort_helper(i, adj, visited, stack)
 
