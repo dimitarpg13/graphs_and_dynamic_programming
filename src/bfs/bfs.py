@@ -1,4 +1,5 @@
 from collections import deque
+from utils.utils import arc_list_to_adj_list
 
 
 class BreadthFirstSearch:
@@ -33,8 +34,9 @@ class BreadthFirstSearch:
 
 
 if __name__ == '__main__':
-    adj_list = [[0, 1], [1, 2], [2, 3], [3, 4], [4, 5], []]
+    arc_list = [[0, 1], [1, 2], [2, 3], [3, 4], [4, 5]]
     num_nodes = 6
+    adj_list = arc_list_to_adj_list(arc_list, num_nodes)
     bfs = BreadthFirstSearch(adj_list, num_nodes)
     res = bfs.run(0)
     print(res)
