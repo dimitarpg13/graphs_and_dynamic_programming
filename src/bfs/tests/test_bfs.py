@@ -1,8 +1,8 @@
 import unittest
 
 
-class MyTestCase(unittest.TestCase):
-    def test_something(self):
+class BreathFirstSearchTestCase(unittest.TestCase):
+    def test_bfs(self):
         self.assertEqual(True, False)  # add assertion here
 
 

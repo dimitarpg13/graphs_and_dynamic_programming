@@ -33,7 +33,7 @@ class BreadthFirstSearch:
 
 
 if __name__ == '__main__':
-    adj_list = [[0, 1], [1, 2], [2, 3], [3, 4], [4, 5], [5, None]]
+    adj_list = [[0, 1], [1, 2], [2, 3], [3, 4], [4, 5], []]
     num_nodes = 6
     bfs = BreadthFirstSearch(adj_list, num_nodes)
     res = bfs.run(0)
