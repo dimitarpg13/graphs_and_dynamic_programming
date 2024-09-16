@@ -12,7 +12,7 @@ def topological_sort_helper(v, adj, visited, stack):
 
 
 # Function to perform Topological Sort
-def topological_sort(adj, num_nodes):
+def topological_sort(adj_list, num_nodes):
     # Stack to store the result
     stack = []
 
@@ -23,7 +23,7 @@ def topological_sort(adj, num_nodes):
     # one
     for i in range(num_nodes):
         if not visited[i]:
-            topological_sort_helper(i, adj, visited, stack)
+            topological_sort_helper(i, adj_list, visited, stack)
 
     stack.reverse()
 

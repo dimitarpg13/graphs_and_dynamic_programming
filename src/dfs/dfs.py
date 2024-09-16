@@ -16,12 +16,12 @@ class DepthFirstSearchRecursive:
     def visit_recursive(self, start, visited, visitations):
         visited[start] = True
         visitations.append(start)
-        for i in self.adj_list[start]:
-            if not visited[i]:
-                self.visit_recursive(i, visited, visitations)
+        for v in self.adj_list[start]:
+            if not visited[v]:
+                self.visit_recursive(v, visited, visitations)
 
-    def run(self):
+    def run(self, start):
         visitations = []
         visited = [False] * self.num_nodes
-        self.visit_recursive(0, visited, visitations)
+        self.visit_recursive(start, visited, visitations)
         return visitations
