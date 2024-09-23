@@ -60,6 +60,8 @@ We will look into using open source python packages such as [dynamic-programming
 
  * [Deep Learning for solving Image Processing problems and Generative Tasks](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
 
+ * [Deep Learning Models for Time Series Forecasting problems](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/Resources.md)
+
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/Resources.md)
