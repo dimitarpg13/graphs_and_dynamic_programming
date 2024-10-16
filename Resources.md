@@ -20,6 +20,8 @@
 [Theory of Scheduling, Richard W. Conway, W. Maxwell, L. Miller, Cornell U., 1967](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/TheoryOfScheduling_Conway_Cornell_1967.pdf)
 
 [The Elements of Differentiable Programming, Mathieu Blondel, Vincent Roulet, Google DeepMind, 2024](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf)
+
+[Discrete Calculus: Applied Analysis on Graphs for Computational Science, Leo J. Grady, Jonathan R. Polimeni, 2010](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/discrete_calculus/DiscreteCalculus_AppliedAnalysisonGraphsforComputationalScience_Grady_2010.pdf)
 ## Articles
 
 ### Dynamic Programming
