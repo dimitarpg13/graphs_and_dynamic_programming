@@ -30,7 +30,12 @@ def edge_list_to_adj_list(edge_list, num_nodes):
 
 
 def adj_matrix_to_adj_list(adj_matrix, num_nodes):
-    pass
+    adj_list = [[] for _ in range(num_nodes)]
+    for i, row in enumerate(adj_matrix):
+        for j, col in enumerate(row):
+            if col == 1:
+                adj_list[i].append(j)
+
 
 
 def adj_list_to_adj_matrix(adj_list):
