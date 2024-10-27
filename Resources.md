@@ -38,6 +38,8 @@
 
 [Collection of Dynamic Programming Problems and their solutions at GeeksForGeeks.com](https://www.geeksforgeeks.org/dynamic-programming/)
 
+[Universal Optimality of Dijkstra via Beyond-Worst-Case Heaps, Bernhard Haeupler et al, 2024](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Universal_Optimality_of_Dijkstra_via_Beyond-Worst-Case_Heaps_2024.pdf)
+
 ### Branch-and-Bound
 [An automatic method of solving discrete programming problems, Econometrica, AH Land, AG Doig, 1960](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/An_automatic_method_of_solving_discret_programming_problems_Land_Doig_1960.pdf)
 
