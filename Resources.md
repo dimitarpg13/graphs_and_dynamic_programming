@@ -48,6 +48,10 @@
 
 [Parallel Asynchronous Label Correcting Methods for Shortest Paths, D. Bertsekas, Francesca Guerriero, and Roberto Musmanno, 1994](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Parallel_Asynchronous_Label_Correcting_Methods_for_Shortest_Paths_Bertsekas_1994.pdf)
 
+[Efficient Algorithms for Globally Optimal Trajectories, John Tstsiklis, 1995](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Efficient_Algorithms_for_Globally_Optimal_Trajectories_Tsitsiklis_1995.pdf)
+
+[Implementation of Efficient Algotihms for Globally Optimal Trajectories, L. C. Polymenakos, D. P. Bertsekas, and J. N. Tsitsiklis, 1998](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Implementation_of_Efficient_Algorithms_for_Globally_Optimal_Trajectories_Polymeniakos_1998.pdf)
+
 [Hamilton-Jacobi-Bellman Equations and Optimal Control, IC Dolcetta, 1996](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Hamilton-Jacobi-Bellman_equations_and_optimal_control_Dolcetta_1996.pdf)
 
 [Viscosity Solutions of Hamilton-Jacobi-Equations and Optimal Control Problems, Alberto Bressan, 2001](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Viscosity_Solutions_of_Hamilton-Jacobi_Equations_and_Optimal_Control_Problems_Bressan_2001.pdf)
