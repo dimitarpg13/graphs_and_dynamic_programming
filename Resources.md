@@ -40,6 +40,22 @@
 
 [Universal Optimality of Dijkstra via Beyond-Worst-Case Heaps, Bernhard Haeupler et al, 2024](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Universal_Optimality_of_Dijkstra_via_Beyond-Worst-Case_Heaps_2024.pdf)
 
+#### Dijkstra and the Eikonal Equation
+
+[The Eikonal equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
+
+[Simplicial Dijkstra and A* Algorithms: From Graphs to Continuous Spaces, D.S. Yershov, S.M. LaValle, 2012](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Simplicial_Dijkstra_and_AStar_Algorithms-From_Graphs_to_Continuous_Spaces_Yershov_2012.pdf)
+
+[Parallel Asynchronous Label Correcting Methods for Shortest Paths, D. Bertsekas, Francesca Guerriero, and Roberto Musmanno, 1994](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Parallel_Asynchronous_Label_Correcting_Methods_for_Shortest_Paths_Bertsekas_1994.pdf)
+
+[Hamilton-Jacobi-Bellman Equations and Optimal Control, IC Dolcetta, 1996](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Hamilton-Jacobi-Bellman_equations_and_optimal_control_Dolcetta_1996.pdf)
+
+[Viscosity Solutions of Hamilton-Jacobi-Equations and Optimal Control Problems, Alberto Bressan, 2001](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Viscosity_Solutions_of_Hamilton-Jacobi_Equations_and_Optimal_Control_Problems_Bressan_2001.pdf)
+
+[A Fast Marching Level Set Method for Monotonically Advancing Fronts, J.A. Sethian, 1996](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/sethian-1996-a-fast-marching-level-set-method-for-monotonically-advancing-fronts.pdf)
+
+[Evolution, Implementation and Application of Level Set and Fast Marching Methods for Advancing Fronts, J.A. Sethian, 2000](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Evolution_Implementation_and_Application_of_Level_Set_and_Fast_Marching_Methods_for_Advancing_Fronts_Sethian_2000.pdf)
+
 ### Branch-and-Bound
 [An automatic method of solving discrete programming problems, Econometrica, AH Land, AG Doig, 1960](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/branch_and_bound/An_automatic_method_of_solving_discret_programming_problems_Land_Doig_1960.pdf)
 
