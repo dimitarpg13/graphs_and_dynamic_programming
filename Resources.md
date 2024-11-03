@@ -42,6 +42,8 @@
 
 #### Dijkstra and the Eikonal Equation
 
+[The Eikonal equation, Wikipedia](https://en.wikipedia.org/wiki/Eikonal_equation)
+
 [Simplicial Dijkstra and A* Algorithms: From Graphs to Continuous Spaces, D.S. Yershov, S.M. LaValle, 2012](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Simplicial_Dijkstra_and_AStar_Algorithms-From_Graphs_to_Continuous_Spaces_Yershov_2012.pdf)
 
 [Parallel Asynchronous Label Correcting Methods for Shortest Paths, D. Bertsekas, Francesca Guerriero, and Roberto Musmanno, 1994](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/dynamic_programming/Parallel_Asynchronous_Label_Correcting_Methods_for_Shortest_Paths_Bertsekas_1994.pdf)
