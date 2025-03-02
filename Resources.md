@@ -167,6 +167,10 @@
 
 [Percolation Theory for Mathematicians - all chapters here...](https://github.com/dimitarpg13/graphs_and_dynamic_programming/tree/master/articles/percolation/percolation_theory_for_mathematicians)
 
+### Sensitivity Conjecture
+
+[Induced subgraphs of hypercubes and a proof of the Sensitivity Conjecture, Hao Huang, 2019](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/articles/sensitivity_conjecture/Induced_subgraphs_of_hypercubes_and_a_proof_of_the_Sensitivity_Conjecture_Huang_2019.pdf)
+
 ## medium
 
 [The Essential Guide to Graph Theory: From an 18th Century Riddle to Artificial Intelligence, Sydney Nye, May, 2024](https://towardsdatascience.com/the-essential-guide-to-graph-theory-from-an-18th-century-riddle-to-artificial-intelligence-c441cb9400de)
