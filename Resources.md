@@ -22,6 +22,9 @@
 [The Elements of Differentiable Programming, Mathieu Blondel, Vincent Roulet, Google DeepMind, 2024](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf)
 
 [Discrete Calculus: Applied Analysis on Graphs for Computational Science, Leo J. Grady, Jonathan R. Polimeni, 2010](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/books/discrete_calculus/DiscreteCalculus_AppliedAnalysisonGraphsforComputationalScience_Grady_2010.pdf)
+
+[Approximate Dynamic Programming - A Series of Lectures Given at CEA-Cadarache, France, Summer 2012, Dimitri Bertsekas](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/docs/Approximate_Dynamic_Programming_Short_Course_Complete_Dimitri_Bertsekas_2012.pdf)
+
 ## Articles
 
 ### Dynamic Programming
