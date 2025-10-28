@@ -68,6 +68,8 @@ We will look into using open source python packages such as [dynamic-programming
 
  * [Vector Retrieval Techniques and Algorithms](https://github.com/dimitarpg13/vector_db_intro/blob/main/Resources.md)
 
+ * [Retrieval-Augmented Generation Concepts, Architectures and Algorithms](https://github.com/dimitarpg13/rag_architectures_and_concepts/blob/main/Resources.md)
+
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/Resources.md)
